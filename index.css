@@ -31,7 +31,7 @@ header {
 }
 
 .navbar a:hover {
-    color: #0056b3;
+    color: #d0d8e0;
 }
 
 /* Banner Section */
@@ -397,5 +397,4 @@ ul li a i {
     margin-right: 8px; /* Add space between the icon and text */
     font-size: 1.2rem; /* Adjust icon size */
 }
-
 
